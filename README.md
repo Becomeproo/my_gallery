@@ -43,4 +43,4 @@
 <br>
 
 ## 💡정리 블로그
-[단어장 앱 정리 블로그](https://becomeproo.github.io/android/Android-Part1-%EB%8B%A8%EC%96%B4%EC%9E%A5-%EC%95%B1/)
+[나만의 앨범 앱 정리 블로그](https://becomeproo.github.io/android/Android-Part1-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%95%A1%EC%9E%90-%EC%95%B1/)
